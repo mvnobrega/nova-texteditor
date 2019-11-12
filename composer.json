@@ -1,5 +1,5 @@
 {
-    "name": "mobsite/text-editor",
+    "name": "mobsite/nova-text-editor",
     "description": "A Laravel TextEditor Nova field.",
     "keywords": [
         "laravel",
