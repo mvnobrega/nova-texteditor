@@ -1,5 +1,5 @@
 {
-    "name": "mobsite/nova-text-editor",
+    "name": "mvnobrega/nova-text-editor",
     "description": "A Laravel TextEditor Nova field.",
     "keywords": [
         "laravel",
@@ -23,5 +23,7 @@
     },
     "config": {
         "sort-packages": true
-    }
+    },
+    "minimum-stability": "dev",
+    "prefer-stable": true
 }
