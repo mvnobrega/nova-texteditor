@@ -1,5 +1,5 @@
 {
-    "name": "mvnobrega/nova-text-editor",
+    "name": "mvnobrega/nova-texteditor",
     "description": "A Laravel TextEditor Nova field.",
     "keywords": [
         "laravel",
